@@ -33,10 +33,6 @@ object question_3 extends App {
   b-=1
   println( "--b * a + c * d-- = " + (b*a+c*d ))
   d-=1
-  println("a++" + (a))
-  a+=1
-  //println ("–2 * ( g – k ) +c" + (-2 *(g-k)+c));
-  d-=1
   println("a++ = " + (a))
   a+=1
   //println("-2 * ( g - k ) +c = " + (-2 *(g-k)+c));
